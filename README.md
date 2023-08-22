@@ -1,7 +1,3 @@
-# Awesome Korean LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-한국어 오픈소스 LLM 정보를 모아놓은 awesome list입니다.
-
 ## 한국어 오픈소스 LLM
 
 |                                 이름                                 |               사이즈               |                        제작자                         |       베이스 모델        | 상업적 사용 여부 |                                       가중치                                       |
@@ -43,8 +39,3 @@
 - [KoAlpaca-KoRMKV](https://huggingface.co/beomi/KoAlpaca-KoRWKV-6B)
 - [KoGPT](https://github.com/kakaobrain/kogpt)
 - [KoGPT2](https://github.com/SKT-AI/KoGPT2)
-
-
-## Contributing
-
-틀린 점이 있거나 새로운 한국어 LLM이 있다면 언제나 PR을 보내주세요!
